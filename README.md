@@ -1,1 +1,2 @@
-# learning-html-and-css-the-odin-project
+# The Odin Project course. 
+# Foundations: HTML & CSS.
